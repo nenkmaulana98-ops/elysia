@@ -1,7 +1,7 @@
 {
     "name": "Luner #521",
     "description": "Regular Explorer Pass - Public Utility Pass.",
-    "image": "ipfs://bafybeifnyjqrske2irgqdzyok5fjyyw4a5lm3oze6sekrlpvkluvw46hra/luner.png",
+    "image": "https://raw.githubusercontent.com/nenkmaulana98-ops/elysia/refs/heads/main/luner.png",
     "attributes": [
         {
             "trait_type": "Edition",
