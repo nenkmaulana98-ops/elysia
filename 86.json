@@ -1,0 +1,20 @@
+{
+    "name": "Elfil #086",
+    "description": "Founder Member Pass - Dedicated Pre-sale Token Buyer Reward.",
+    "image": "ipfs://bafybeifnyjqrske2irgqdzyok5fjyyw4a5lm3oze6sekrlpvkluvw46hra/luner.png",
+    "animation_url": "ipfs://bafybeigyagomc37oibx7ovhabjfhiqe2jcr5dvwyfwxepis3objginy27u/elfil.gif",
+    "attributes": [
+        {
+            "trait_type": "Edition",
+            "value": "Elfil"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Buyer"
+        },
+        {
+            "trait_type": "Tier",
+            "value": "Legendary"
+        }
+    ]
+}

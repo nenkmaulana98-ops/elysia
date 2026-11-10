@@ -1,0 +1,20 @@
+{
+    "name": "Elysia #014",
+    "description": "Exclusive Alpha Member Pass - Early Community Social Reward Pass.",
+    "image": "ipfs://bafybeifnyjqrske2irgqdzyok5fjyyw4a5lm3oze6sekrlpvkluvw46hra/luner.png",
+    "animation_url": "ipfs://bafybeibjylikvvhbncncs6bcdtcpjrriqqbb5worymh3wepe3w5mlhskqi/elysia.gif",
+    "attributes": [
+        {
+            "trait_type": "Edition",
+            "value": "Elysia"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Tier",
+            "value": "Mythic"
+        }
+    ]
+}
