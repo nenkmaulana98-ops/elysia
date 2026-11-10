@@ -1,0 +1,19 @@
+{
+    "name": "Luner #354",
+    "description": "Regular Explorer Pass - Public Utility Pass.",
+    "image": "ipfs://bafybeifnyjqrske2irgqdzyok5fjyyw4a5lm3oze6sekrlpvkluvw46hra/luner.png",
+    "attributes": [
+        {
+            "trait_type": "Edition",
+            "value": "Luner"
+        },
+        {
+            "trait_type": "Class",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Tier",
+            "value": "Epic"
+        }
+    ]
+}
