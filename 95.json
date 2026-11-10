@@ -1,8 +1,8 @@
 {
     "name": "Elfil #095",
     "description": "Founder Member Pass - Dedicated Pre-sale Token Buyer Reward.",
-    "image": "ipfs://bafybeifnyjqrske2irgqdzyok5fjyyw4a5lm3oze6sekrlpvkluvw46hra/luner.png",
-    "animation_url": "ipfs://bafybeigyagomc37oibx7ovhabjfhiqe2jcr5dvwyfwxepis3objginy27u/elfil.gif",
+    "image": "https://raw.githubusercontent.com/nenkmaulana98-ops/elysia/refs/heads/main/luner.png",
+    "animation_url": "https://raw.githubusercontent.com/nenkmaulana98-ops/elysia/refs/heads/main/elfil%20gif.gif",
     "attributes": [
         {
             "trait_type": "Edition",
